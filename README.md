@@ -13,8 +13,5 @@ Clone this repo and install the NPM packages.
 ``` bash
 $ git clone https://https://github.com/pravash21/todo-app-api
 $ npm install
-```
-
-``` bash
 $ serverless deploy
 ```
