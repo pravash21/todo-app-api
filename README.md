@@ -15,3 +15,5 @@ $ git clone https://https://github.com/pravash21/todo-app-api
 $ npm install
 $ serverless deploy
 ```
+
+Link to the Live App : https://zen-mcclintock-3a5f66.netlify.app/
